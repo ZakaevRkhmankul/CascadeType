@@ -41,6 +41,7 @@ public class App
 
 //        userDao.updateCarAndUser(2L);
 
+        System.out.println("test");
 
     }
 }
